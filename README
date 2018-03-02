@@ -1,0 +1,12 @@
+simple-titanic-dll.ipynb
+--------------------------
+
+ The sample program given in Tensor flow web page 
+https://github.com/tensorflow/models/tree/master/samples/core/get_started 
+
+is modified to see its effect on Titanic dataset posted in Kaggle. 
+
+https://www.kaggle.com/c/titanic/data
+
+Only Numeric columns are kept and the missing values are ignored in this commit
+
