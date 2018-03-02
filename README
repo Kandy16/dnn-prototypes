@@ -8,5 +8,6 @@ is modified to see its effect on Titanic dataset posted in Kaggle.
 
 https://www.kaggle.com/c/titanic/data
 
-Only Numeric columns are kept and the missing values are ignored in this commit
+Only Numeric columns are kept and the missing values are ignored in the first commit
+Sensible columns with categorical values are also included and the mode value of each column is used to replace NaN values
 
